@@ -1,5 +1,6 @@
-## Olá, pessoa 👋
+## Bienvenidos, muchachos! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7211C5&background=BFFF4400&center=true&vCenter=true&width=435&lines=Marcus+aqui+trazendo+sauda%C3%A7%C3%B5es)](https://git.io/typing-svg)
 <div align="center">
     <a href="https://github.com/MarcusFonseca15">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusFonseca15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,6 +8,7 @@
 </div>
 
 - 💻 / **Estudante de Sistemas da Informação (UESB)**
+- 🌍 / **Brasileiro**
   
 
  ### Em constante aprendizado:
