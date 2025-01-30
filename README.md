@@ -9,6 +9,8 @@
 
 - 💻 / **Estudante de Sistemas da Informação (UESB)**
 - 🌍 / **Brasileiro**
+- Inglês (avançado)
+- Português (Nativo)
   
 
  ### Em constante aprendizado:
