@@ -14,7 +14,7 @@
 - Português (Nativo)
   
 
- ### Em constante aprendizado:
+ ### Aprendendo:
  <div display = "inline-block">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" widht="40" height="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" />
