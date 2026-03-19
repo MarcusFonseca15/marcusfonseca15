@@ -11,21 +11,27 @@
 - 🌍 / **Brasileiro**
 - Inglês (intermediário)
 - Francês (básico)
-- Português (Nativo)
+- Português (nativo)
+- Libras (avançado)
   
 
- ### Aprendendo:
+ ### Tecnologias e Aprendendo
  <div display = "inline-block">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" widht="40" height="40">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" /> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" />
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40" height="40" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40" height="40" />
 </div>
  
 
