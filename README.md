@@ -34,6 +34,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40" height="40" />
 </div>
  
-
+<img src="https://raw.githubusercontent.com/MarcusFonseca15/MarcusFonseca15/output/snake.svg" alt="Snake animation" />
   
 </div>
