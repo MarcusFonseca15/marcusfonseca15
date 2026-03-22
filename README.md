@@ -8,13 +8,13 @@
 </div>
 
 ---
-## 💬 Sobre mim
+## 💬 About me
 
-- 💻 **Estudante de Sistemas da Informação (UESB)**
-- 🌍 **Brasileiro**
+- 💻 **Graduating in Bachelor of Information Systems (UESB)**
+- 🌍 **Brazilian**
 ---
 
-## 🛠️ Tecnologias e Aprendendo
+## 🛠️ Technologies and Learning Experiences
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo" />
 </div>
 
-### 🗣️ Idiomas e Comunicação
+### 🗣️ Languages ​​and Communication
 
 <div align="left">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" height="25" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div align="center">
   <table border="0">
